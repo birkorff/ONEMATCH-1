@@ -14,7 +14,7 @@
 					</li>
 
 					<!-- Dropdown -->
-					<li class="nav-item dropdown">
+					<li class="nav-item dropdown" >
 						<a href="#" class="nav-link dropdown-toggle" id="submenuCancha" role="button" data-bs-toggle="dropdown" aria-expanded="false">
 							Cancha
 						</a>
@@ -29,7 +29,7 @@
 						</ul>
 					</li>
 					<li class="nav-item">
-						<a href="#" class="nav-link">Contacto</a>
+						<a href="#" class="nav-link">Contacto delos panas</a>
 					</li>
 					<li class="nav-item">
 						<a href="#" class="nav-link">Sobre Nosotos</a>
